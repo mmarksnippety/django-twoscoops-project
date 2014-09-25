@@ -1,6 +1,19 @@
-Django==1.6.5
-bpython==0.13
-django-braces==1.4.0
-django-model-utils==2.0.3
-logutils==0.3.3
-South==0.8.4
+Django
+django-braces
+django-model-utils
+django-grappelli
+django-bower
+django-pipeline
+django-pipeline-compass-rubygem
+
+jsonfield
+logutils
+psycopg2
+pytz
+lxml
+bpython
+
+## REST
+# djangorestframework
+# django-filter
+# markdown
